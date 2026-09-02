@@ -1,4 +1,4 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", 8205256158:AAFkRjA_ECBvQ4byQpDoXeZE6Kd3pWqxLow)
+BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_TOKEN_HERE")
 DB_PATH = "game.db"
